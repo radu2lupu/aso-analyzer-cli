@@ -1,4 +1,4 @@
-# aso-cli
+# aso-analyzer-cli
 
 **App Store keyword research from your terminal. No accounts, no API keys, no paid services.**
 
@@ -27,8 +27,8 @@ One file, Python 3.10+ standard library only. Nothing to `pip install`.
 ## Installation
 
 ```bash
-git clone https://github.com/YOURNAME/aso-cli.git
-cd aso-cli
+git clone https://github.com/radu2lupu/aso-analyzer-cli.git
+cd aso-analyzer-cli
 chmod +x aso
 ln -s "$PWD/aso" /usr/local/bin/aso    # or anywhere on your PATH
 aso --version
